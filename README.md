@@ -1,5 +1,5 @@
 
-# ENTNT Technical Assignment
+# Recruiter Hub
 
 This repository contains the source code for a Web Hiring Platform Application. The application enables job posting management, candidate tracking, and job-specific assessment creation.
 
@@ -24,7 +24,7 @@ This project is a web-based platform designed for administrators to manage hirin
 - Create and track assessments for job-specific roles.  
 - Manage candidates and their evaluations.  
 
-**Live Demo:** [EntNT Technical Assignment App](https://entnt-technical-assignment-final.vercel.app/)  
+**Live Demo:** [Recruiter Hub Live App](https://entnt-technical-assignment-final.vercel.app/)  
 
 ---
 
